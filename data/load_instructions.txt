@@ -1,0 +1,23 @@
+cat project/data/Customers.csv | psql -U yh3655 -d yh3655_db -c "COPY Customers from STDIN CSV HEADER"
+
+cat project/data/Shipments.csv | psql -U yh3655 -d yh3655_db -c "COPY Shipments from STDIN CSV HEADER"
+
+cat project/data/Orders_Placed_Shipped.csv | psql -U yh3655 -d yh3655_db -c "COPY Orders_Placed_Shipped from STDIN CSV HEADER"
+
+cat project/data/Products.csv | psql -U yh3655 -d yh3655_db -c "COPY Products from STDIN CSV HEADER"
+
+cat project/data/Reviews_Reviewed_Written.csv | psql -U yh3655 -d yh3655_db -c "COPY Reviews_Reviewed_Written from STDIN CSV HEADER"
+
+cat project/data/Categories.csv | psql -U yh3655 -d yh3655_db -c "COPY Categories from STDIN CSV HEADER"
+
+cat project/data/Manufactures.csv | psql -U yh3655 -d yh3655_db -c "COPY Manufactures from STDIN CSV HEADER"
+
+cat project/data/M_Make_P.csv | psql -U yh3655 -d yh3655_db -c "COPY M_Make_P from STDIN CSV HEADER"
+
+cat project/data/O_Contain_P.csv | psql -U yh3655 -d yh3655_db -c "COPY O_Contain_P from STDIN CSV HEADER"
+
+cat project/data/P_BelongTo_C.csv | psql -U yh3655 -d yh3655_db -c "COPY P_BelongTo_C from STDIN CSV HEADER"
+
+cd project
+
+streamlit run project.py --server.address=localhost --server.port=8619

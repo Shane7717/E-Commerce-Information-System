@@ -1,0 +1,21 @@
+sid,type,origin_city,destination_city,company
+111,Prime delivery,Clinton,Rye,Ups
+121,No-Rush,Corning,Sag Harbor,Amazon
+131,Standard,Cortland,Seneca Falls,DHL
+141,Rush,Binghamton,Staten Island,FexEx
+151,Prime delivery,Fresno,Glendale,USPS
+161,No-Rush,Newark,Minneapolis,Deliv
+171,Standard,Toledo,Milwaukee,Amazon
+181,Rush,Indianapolis,Sacramento,FexEx
+191,Rush,Anaheim,Miami,Amazon
+201,Prime delivery,Omaha,Rochester,FexEx
+211,No-Rush,San Francisco,New York,Amazon
+221,Prime delivery,Charlotte,Henderson,FexEx
+231,Standard,Jersey City,St. Petersburg,Amazon
+241,Standard,Hialeah,San Jose,Amazon
+251,Prime delivery,Chicago,Scottsdale,DHL
+261,Standard,Chandler,Montgomery,Amazon
+271,Prime delivery,Atlanta,Portland,Ups
+281,No-Rush,Albuquerque,Garland,Amazon
+291,Rush,Tucson,St. Paul,Ups
+301,Prime delivery,Tampa,Glendale,Deliv

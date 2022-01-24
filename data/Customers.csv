@@ -1,0 +1,47 @@
+cid,name,address,phone_number,payment_method
+1,Richard Peterson,"407 N 7th St
+Oskaloosa, Iowa(IA), 52577",317-414-6431,Checks
+2,Janice Martin,"1258 59th St #9
+Emeryville, California(CA), 94608",718-308-0990,Debit cards
+3,Pamela Gonzales,"23473 Partners Way #26
+Porter, Texas(TX), 77365",760-395-9307,Credit cards
+4,Rachel Cook,"227 Salmon Brook St
+Granby, Connecticut(CT), 06035",614-524-6778,Debit cards
+5,Mary Flores,"300 Woods Trl
+Perry, Georgia(GA), 31069",608-206-3985,Electronic bank transfers
+6,Phyllis Ross,"22 Morningside Dr
+York, Pennsylvania(PA), 17402",336-985-9838,Credit cards
+7,Albert Torres,"129 Whaley St
+Suffolk, Virginia(VA), 23438",419-515-5352,Credit cards
+8,Frances Coleman,"256 Park St #APT 4 
+Lewiston,?Maine(ME),?
+04240",(845) 469-6120,Credit cards
+9,Sharon Long,"795 Hookers Mill Rd 
+Abingdon,?Maryland(MD),
+?21009",(402) 293-7661,Credit cards
+10,Joseph Brown,"Po Box 594 Kinder,
+Louisiana(LA),?
+70648",(440) 967-6058,Electronic bank transfers
+11,Betty Richardson,"1032 Tarver Ave 
+Jena,?Louisiana(LA),?
+71342",(903) 632-5336,Debit cards
+12,Jane Miller,"3625 Fairwood St
+Pittsburgh, Pennsylvania(PA), 15205",(517) 663-2658,Checks
+13,Kevin Harris,"1610 Reynolds Rd #196
+Lakeland, Florida(FL), 33801",(858) 756-3632,Credit cards
+14,Ernest Bryant,"2772 Parker Ave
+Oakland, California(CA), 94605",(847) 923-0464,Debit cards
+15,Martin Hall,"255 Riphall Rd
+Wewahitchka, Florida(FL), 32465",(575) 737-9779,Credit cards
+16,Thomas Lopez,"24 Wyckoff Ave #1
+Waldwick, New Jersey(NJ), 07463",(712) 792-1423,Checks
+17,Katherine Ramirez,"736 Heylman St
+Fort Scott, Kansas(KS), 66701",(830) 833-4494,Credit cards
+18,Diana Nelson,"39 Lake Dr
+Newburgh, New York(NY), 12550",(203) 453-4648,Electronic bank transfers
+19,Jessica Murphy,"1 June Rd
+Chester, New York(NY), 10918",(716) 592-0545,Credit cards
+20,Angela Clark,"552 County Rd #1330
+Clarksville, Texas(TX), 75426",(270) 757-9018,Debit cards
+21,Yibei Huang,"7941 Country Club Avenue
+Upland, CA 91784",(517) 944-7725,Debit cards
