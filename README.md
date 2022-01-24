@@ -1,3 +1,5 @@
-# E-commerce Information System
+# :small_orange_diamond: E-commerce Information System :snowman:
 
-* Used Python Streamlit and Psycopg2.
+## Introduction
+
+This is an E-Commerce Information System that allows the system managers or analysts to interact with our database, query different tables, and obtain meaningful insights based on the information in our database.
